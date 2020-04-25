@@ -11,13 +11,13 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts('https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js');
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  '/precache-manifest.3174cde3598ab9fe4d36750561d90d4e.js',
+  "/ACNH/precache-manifest.13eb2648fcae0c767e920e42e8976fc0.js"
 );
 
-workbox.core.setCacheNameDetails({ prefix: 'acnh_app' });
+workbox.core.setCacheNameDetails({prefix: "acnh_app"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {
