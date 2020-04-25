@@ -1,14 +1,18 @@
 <template>
+<v-app>
   <div id="app">
-    <Fish />
+  <link href="https://fonts.googleapis.com/css?family=Material+Icons" rel="stylesheet">    <Fish />
   </div>
+</v-app>
 </template>
 
 <script>
+import Vuetify from 'vuetify';
 import Fish from './components/Fish.vue';
 
 export default {
   name: 'App',
+  vuetify: new Vuetify(),
   components: {
     Fish,
   },

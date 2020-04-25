@@ -1,19 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34f6fe5173e41cbd28d3",
+    "revision": "fdfb9917d557bd2d1122",
     "url": "/ACNH/css/app.d40fc157.css"
   },
   {
-    "revision": "ddf32fbf4a75467a280cbf638e8114b0",
+    "revision": "11f68bf9834e9f33d6ee",
+    "url": "/ACNH/css/chunk-vendors.e7c44726.css"
+  },
+  {
+    "revision": "05fc84b15c5143ad6535a1ce9df361f7",
     "url": "/ACNH/index.html"
   },
   {
-    "revision": "34f6fe5173e41cbd28d3",
-    "url": "/ACNH/js/app.51f76ae9.js"
+    "revision": "fdfb9917d557bd2d1122",
+    "url": "/ACNH/js/app.24bdc7fb.js"
   },
   {
-    "revision": "be8d6ab70156be49f1db",
-    "url": "/ACNH/js/chunk-vendors.a5453930.js"
+    "revision": "11f68bf9834e9f33d6ee",
+    "url": "/ACNH/js/chunk-vendors.443950c2.js"
   },
   {
     "revision": "fc195c8e5ea5859a164fdfc730ac08f1",

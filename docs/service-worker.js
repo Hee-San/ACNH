@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/ACNH/precache-manifest.13eb2648fcae0c767e920e42e8976fc0.js"
+  "/ACNH/precache-manifest.015f77f7132412ba85569ad25417d4d2.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "acnh_app"});
